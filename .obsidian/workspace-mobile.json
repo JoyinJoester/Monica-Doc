@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试测试！！.md",
+                "file": "Monica Android关于自动填充.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试测试！！"
+              "title": "Monica Android关于自动填充"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "测试测试！！.md",
+            "file": "Monica Android关于自动填充.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "测试测试！！.md",
+            "file": "Monica Android关于自动填充.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "测试测试！！.md",
+            "file": "Monica Android关于自动填充.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,6 +170,9 @@
   },
   "active": "3334e81252368108",
   "lastOpenFiles": [
-    "测试测试！！.md"
+    "image/IMG_20260515_171133.jpg",
+    "image",
+    "IMG_20260515_171133.jpg",
+    "Monica Android关于自动填充.md"
   ]
 }
